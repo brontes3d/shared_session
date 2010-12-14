@@ -2,6 +2,6 @@ when you need a "2nd" session shared between rails apps (assumes shared secret a
 
 
 
-Copyright (c) 2008-2010 3M. All rights reserved. Released under the MIT license.
+Copyright (c) 2010 3M. All rights reserved. Released under the MIT license.
 
 Authored by Jacob Burkhart.
